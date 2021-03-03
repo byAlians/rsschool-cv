@@ -1,6 +1,6 @@
 # Hleb Hrafa
 ---
-![avatar](~/avatar.jpg)
+![avatar](/avatar.jpg)
 
 ## Contacts
 * tel.: +(375)-447-45-88-67
