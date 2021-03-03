@@ -1,5 +1,7 @@
 # Hleb Hrafa
 ---
+![avatar](~/avatar.jpg)
+
 ## Contacts
 * tel.: +(375)-447-45-88-67
 * e-mail: byalians@gmail.com
@@ -45,3 +47,4 @@ function capital(capitals){
   | 2008 - 2013| BSUIR |
 ## Language
  * English - B1
+ 
