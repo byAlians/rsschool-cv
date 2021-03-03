@@ -1,5 +1,8 @@
 # Hleb Hrafa
 ---
+![avatar](~/avatar.jpg)
+
+
 ## Contacts
 * tel.: +(375)-447-45-88-67
 * e-mail: byalians@gmail.com
