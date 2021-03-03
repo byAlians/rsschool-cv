@@ -35,16 +35,13 @@ function capital(capitals){
   return arr;
 }
 ```
-## Job experience
-  | Expirience | Company | Position |
-  |:-----------|:----:|:-------:|
-  |September 2019 - now| ETNA Software | Full stack developer |
-  
 
+## Job experience
+  September 2019 - now : ETNA Software Full stack developer 
+ 
 ## Education
-  | Years Of Education | University  |
-  |:-----------|:----:|
-  | 2008 - 2013| BSUIR |
+  2008 - 2013 : BSUIR
+  
 ## Language
  * English - B1
  
