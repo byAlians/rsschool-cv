@@ -1,6 +1,6 @@
 # Hleb Hrafa
 ---
-![avatar](~/avatar.jpg)
+![avatar](avatar.jpg)
 
 
 ## Contacts
