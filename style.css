@@ -61,11 +61,11 @@
     color: #999999;
 }
 
-#about-me:checked ~ #about-me,
-#skills:checked ~ #skills,
-#example-of-code:checked ~ #example-of-code,
-#job-experience:checked ~ #job-experience,
-#education:checked ~ #education,
-#language:checked ~ #language{ 
+#about-me:checked ~ #about-me-section,
+#skills:checked ~ #skills-section,
+#example-of-code:checked ~ #example-of-code-section,
+#job-experience:checked ~ #job-experience-section,
+#education:checked ~ #education-section,
+#language:checked ~ #language-section{ 
     display: block; 
 }

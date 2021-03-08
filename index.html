@@ -32,7 +32,7 @@
 				</div>
 			</div>
 			<div class="block-avatar">
-				<img class="avatar" src="./avatar.jpg">
+				<img class="avatar" src="./avatar.jpg" alt="">
 			</div>
 		</div>
 
@@ -51,11 +51,13 @@
 			<label for="language">Language</label>
 			<input id="tab4" type="radio" name="tabs">
 
-			<section id="about-me">
+			<section id="about-me-section">
+				<h6>About me</h6>
 				<p>I like travel, and codding. My aim is to become a senior Full Stack Developer.</p>
 			</section>
 
-			<section id="skills">
+			<section id="skills-section">
+				<h6>Skills</h6>
 				<ol>
 					<li>C#</li>
 					<li>.Net Framework</li>
@@ -69,33 +71,36 @@
 				</ol>
 			</section>
 
-			<section id="example-of-code">
-				<p>Example code (JavaScript)</p>
+			<section id="example-of-code-section">
+				<h6>Example code (JavaScript)</h6>
 				<p><code>
-					function capital(capitals){</br>
-						let arr =[];</br>
-						for(let i =0; i&lt; capitals.length; i++){ </br>
-							if(capitals[i].hasOwnProperty('country')){ </br>
-								arr.push('The capital of '+capitals[i].country+ ' is ' + capitals[i].capital)</br>
-		                }else{</br>
-		                	arr.push(' The capital of '+capitals[i].state+ ' is ' + capitals[i].capital)</br>
-		              	}</br>
-		          	}</br>
-		          	return arr;</br>
+					function capital(capitals){<br>
+						let arr =[];<br>
+						for(let i =0; i&lt; capitals.length; i++){ <br>
+							if(capitals[i].hasOwnProperty('country')){ <br>
+								arr.push('The capital of '+capitals[i].country+ ' is ' + capitals[i].capital)<br>
+		                }else{<br>
+		                	arr.push(' The capital of '+capitals[i].state+ ' is ' + capitals[i].capital)<br>
+		              	}<br>
+		          	}<br>
+		          	return arr;<br>
 		        	}
 				</code>
 				</p>
 			</section>
 
-			<section id="job-experience">
+			<section id="job-experience-section">
+				<h6>Job Experience</h6>
 				<p>September 2019 - now : ETNA Software Full stack developer</p>
 			</section>
 
-			<section id="education">
+			<section id="education-section">
+				<h6>Education</h6>
 				<p>2008 - 2013 : BSUIR</p>
 			</section>
 
-			<section id="language">
+			<section id="language-section">
+				<h6>Language</h6>
 				<p>English - B1</p>
 			</section>
 		</div>
