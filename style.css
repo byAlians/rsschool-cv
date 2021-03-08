@@ -1,0 +1,71 @@
+.information-wrapper{
+    max-width: 750px;
+    margin: 0px auto;
+    color: #FFFFFF;
+}
+
+.information-wrapper .primary-information{
+    display: flex;
+    height: 150px;
+    background-color: #333333;
+    border: 1px solid #555555;
+}
+
+.information-wrapper .primary-information .block-contacts{
+    width: 50%;
+    padding: 10px;
+}
+
+.information-wrapper .primary-information .block-avatar{
+    width: 50%;
+}
+
+.information-wrapper .primary-information .block-avatar .avatar{
+    height: 100%;
+    float: right;
+}
+
+#container-for-tabs { 
+    background: #666666; 
+    padding: 0px; 
+    margin: 0 auto; 
+    position: relative; 
+    border: 1px solid #333333; 
+}
+
+#container-for-tabs label { 
+    display: block; 
+    width: 20%; 
+    padding: 15px; ;
+    background: #333333; 
+    cursor: default; 
+}
+
+#container-for-tabs section { 
+    display: none;
+    background: #666666;
+    color: #FFFFFF;
+    position: absolute; 
+    top: 0; 
+    right: 0;
+    width: 70%;
+    height: 100%;
+}
+
+#container-for-tabs input { 
+    display: none; 
+}
+  
+#container-for-tabs input:checked + label { 
+    font-weight: bold;
+    color: #999999;
+}
+
+#about-me:checked ~ #about-me,
+#skills:checked ~ #skills,
+#example-of-code:checked ~ #example-of-code,
+#job-experience:checked ~ #job-experience,
+#education:checked ~ #education,
+#language:checked ~ #language{ 
+    display: block; 
+}
